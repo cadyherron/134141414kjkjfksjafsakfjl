@@ -59,6 +59,3 @@ DEPENDENCIES
   guard
   guard-rspec
   rspec
-
-BUNDLED WITH
-   1.10.6
